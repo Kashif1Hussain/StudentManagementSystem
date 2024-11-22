@@ -1,0 +1,6 @@
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\bin\Debug\StudentManagmentSystem.Logic.dll
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\bin\Debug\StudentManagmentSystem.Logic.pdb
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\obj\Debug\StudentManagmentSystem.Logic.csproj.AssemblyReference.cache
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\obj\Debug\StudentManagmentSystem.Logic.csproj.CoreCompileInputs.cache
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\obj\Debug\StudentManagmentSystem.Logic.dll
+C:\Users\mkash\source\repos\StudentManagmentSystem\StudentManagmentSystem.Logic\obj\Debug\StudentManagmentSystem.Logic.pdb
